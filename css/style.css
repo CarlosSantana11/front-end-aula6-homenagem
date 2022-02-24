@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(97, 97, 97);
+}
+p {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  ol {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  ul {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  h1 {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  h2 {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  h3 {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  footer {
+    color: white;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+  }
